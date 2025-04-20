@@ -94,7 +94,7 @@ FSIM and GCIM represent individual interaction modules, respectively. The notati
 ***
 ## :open_file_folder:Datasets
 
-Thw M3FD dataset with mask can be downloaded at https://drive.google.com/drive/folders/1J15Kt8hiwDoB24FEMPKiofn_4dD0tpFz?usp=drive_link
+The M3FD dataset with mask can be downloaded at https://drive.google.com/drive/folders/1J15Kt8hiwDoB24FEMPKiofn_4dD0tpFz?usp=drive_link.
 
 ***
 ## 🫳Install dependencies

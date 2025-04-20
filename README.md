@@ -2,7 +2,7 @@
 
 ***
 
-This code is a **pytorch** implementation of our paper "**GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images**".
+This code is a **pytorch** implementation of our paper "**FDIFuse: A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion**".
 
 ***
 

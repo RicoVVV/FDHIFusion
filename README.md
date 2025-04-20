@@ -1,8 +1,8 @@
-# :dizzy:FDIFuse: A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion
+# :dizzy:FDHIFusion: A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion
 
 ***
 
-This code is a **pytorch** implementation of our paper "**FDIFuse: A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion**".
+This code is a **pytorch** implementation of our paper "**FDHIFusion: A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion**".
 
 ***
 
